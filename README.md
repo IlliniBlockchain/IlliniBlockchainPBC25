@@ -1,3 +1,5 @@
+# Built by Keshav Ramamurthy, Timothy Rolshud, Pragath Siva and Purnima Vasistha
+
 # Initial Public Offering System
 
 ## Demo Media
